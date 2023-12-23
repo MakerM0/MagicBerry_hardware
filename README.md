@@ -1,2 +1,2 @@
 # MagicBerry_hardware
-Q10 keyboard python
+Q20 keyboard python
